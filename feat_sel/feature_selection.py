@@ -9,7 +9,6 @@ def feature_importance(df, feature_names, target_name, params_xgb, n_round=1,
                        t_begin=0, t_end=905, t_delta=100,
                        t_win_train=100, t_win_valid=100, total_gain=False,
                        seed_offset=123):
-    t0 = time.time()
     imp_train = pd.DataFrame(columns=feature_names)
     imp_valid = pd.DataFrame(columns=feature_names)
     for t_left in range(t_begin, t_end-t_win_train-t_win_valid, t_delta):
@@ -59,7 +58,7 @@ def feature_importance(df, feature_names, target_name, params_xgb, n_round=1,
 
 # train: df.timestamp<=t_end
 # imp_type: 'valid', 'train'
-def feature_selection(df, params, topk=10, n_round=5, t_begin=0, t_end=905, t_delta=10,
+def feature_selection(df, feature_names, params, topk=10, n_round=5, t_begin=0, t_end=905, t_delta=10,
                       imp_type='valid', winsize=100, save_imp=False, seed_offset=123):
     imp_tr, imp_va = feature_importance(df,
                                         feature_names,
@@ -107,7 +106,7 @@ if __name__ == '__main__':
     for i in range(30):
         seed = 10191 + 571 * i
         print("\nseed:%d" % seed)
-        cols_lst.append(feature_selection(df, params_xgb_fs,
+        cols_lst.append(feature_selection(df, feature_names, params_xgb_fs,
                                           topk=topk,
                                           n_round=5,
                                           t_begin=0,
