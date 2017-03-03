@@ -1,0 +1,452 @@
+
+seed:10191
+imp_train>0:109, imp_valid>0:93
+                   train     valid
+technical_2     0.010595  0.001812
+technical_21    0.011326  0.001866
+fundamental_53  0.011745  0.001881
+technical_36    0.007985  0.002511
+technical_40    0.012648  0.002849
+technical_30    0.015351  0.003098
+technical_35    0.011904  0.004140
+technical_7     0.010847  0.004309
+technical_27    0.013892  0.004836
+technical_20    0.016571  0.006441
+356.7s
+
+seed:10762
+imp_train>0:109, imp_valid>0:103
+                   train     valid
+fundamental_56  0.005085  0.001900
+technical_17    0.011547  0.001903
+fundamental_53  0.011329  0.002218
+technical_36    0.008668  0.002579
+technical_40    0.012805  0.002787
+technical_30    0.015564  0.003142
+technical_35    0.012657  0.003446
+technical_27    0.014394  0.004149
+technical_7     0.010983  0.004727
+technical_20    0.016256  0.005899
+710.5s
+
+seed:11333
+imp_train>0:109, imp_valid>0:96
+                   train     valid
+technical_36    0.009585  0.002064
+technical_19    0.011637  0.002213
+technical_21    0.011558  0.002434
+fundamental_53  0.011822  0.002558
+technical_40    0.012381  0.002836
+technical_30    0.015494  0.003176
+technical_7     0.010553  0.003935
+technical_35    0.014542  0.004094
+technical_27    0.013759  0.004640
+technical_20    0.016516  0.006500
+1063.9s
+
+seed:11904
+imp_train>0:109, imp_valid>0:98
+                   train     valid
+fundamental_15  0.008161  0.001986
+fundamental_42  0.011679  0.001991
+fundamental_53  0.010913  0.002114
+technical_40    0.011486  0.002210
+technical_36    0.009485  0.002563
+technical_30    0.015160  0.002845
+technical_35    0.011825  0.003752
+technical_7     0.010727  0.003945
+technical_27    0.014453  0.005291
+technical_20    0.015699  0.005736
+1417.6s
+
+seed:12475
+imp_train>0:109, imp_valid>0:99
+                   train     valid
+technical_21    0.011260  0.002045
+fundamental_14  0.009028  0.002097
+fundamental_53  0.011336  0.002331
+technical_36    0.008947  0.002574
+technical_40    0.012344  0.002606
+technical_30    0.014948  0.002980
+technical_35    0.012275  0.003024
+technical_7     0.012353  0.004273
+technical_27    0.013646  0.005115
+technical_20    0.016033  0.005795
+1771.0s
+
+seed:13046
+imp_train>0:109, imp_valid>0:100
+                   train     valid
+fundamental_56  0.006020  0.001776
+technical_19    0.010721  0.001971
+technical_40    0.012665  0.002271
+fundamental_53  0.011948  0.002334
+technical_36    0.009016  0.002581
+technical_30    0.015235  0.002720
+technical_35    0.011547  0.004107
+technical_7     0.010756  0.004668
+technical_27    0.014462  0.004901
+technical_20    0.016335  0.005938
+2124.4s
+
+seed:13617
+imp_train>0:109, imp_valid>0:93
+                   train     valid
+technical_21    0.011125  0.002039
+technical_40    0.012737  0.002102
+fundamental_53  0.011786  0.002317
+technical_19    0.011033  0.002491
+technical_30    0.015250  0.003060
+technical_36    0.009441  0.003237
+technical_35    0.011939  0.003298
+technical_27    0.013487  0.004536
+technical_7     0.012453  0.004647
+technical_20    0.016532  0.005809
+2478.0s
+
+seed:14188
+imp_train>0:109, imp_valid>0:95
+                   train     valid
+technical_19    0.010953  0.002113
+fundamental_45  0.004684  0.002130
+fundamental_53  0.010962  0.002413
+technical_40    0.011607  0.002774
+technical_30    0.015641  0.002974
+technical_36    0.009499  0.003011
+technical_35    0.012804  0.004291
+technical_7     0.011515  0.005018
+technical_27    0.014820  0.005263
+technical_20    0.015995  0.005784
+2831.6s
+
+seed:14759
+imp_train>0:109, imp_valid>0:99
+                   train     valid
+fundamental_42  0.011475  0.001729
+technical_2     0.010430  0.001740
+fundamental_53  0.011652  0.002072
+technical_40    0.013411  0.002396
+technical_30    0.015760  0.002969
+technical_36    0.008381  0.003073
+technical_35    0.012868  0.003354
+technical_7     0.010851  0.004112
+technical_27    0.014122  0.004588
+technical_20    0.016099  0.006102
+3185.4s
+
+seed:15330
+imp_train>0:109, imp_valid>0:97
+                   train     valid
+fundamental_42  0.011871  0.002047
+fundamental_53  0.011962  0.002137
+fundamental_39  0.006560  0.002196
+technical_40    0.011638  0.002312
+technical_30    0.015527  0.003156
+technical_35    0.011435  0.003349
+technical_36    0.009757  0.003408
+technical_27    0.014272  0.004913
+technical_7     0.010659  0.004933
+technical_20    0.016109  0.005855
+3539.0s
+
+seed:15901
+imp_train>0:109, imp_valid>0:102
+                   train     valid
+technical_19    0.009955  0.001881
+technical_2     0.010266  0.001899
+fundamental_53  0.011148  0.001976
+technical_36    0.009129  0.002326
+technical_40    0.012353  0.002500
+technical_30    0.015614  0.003122
+technical_35    0.012198  0.003553
+technical_27    0.014029  0.004033
+technical_7     0.011347  0.005283
+technical_20    0.016445  0.005468
+3892.3s
+
+seed:16472
+imp_train>0:109, imp_valid>0:99
+                   train     valid
+fundamental_56  0.006725  0.001922
+fundamental_53  0.011730  0.001982
+technical_36    0.008506  0.002194
+technical_19    0.011174  0.002342
+technical_40    0.011466  0.002521
+technical_30    0.015776  0.002677
+technical_7     0.010345  0.003855
+technical_27    0.014526  0.004266
+technical_35    0.013643  0.004319
+technical_20    0.016229  0.005837
+4245.8s
+
+seed:17043
+imp_train>0:109, imp_valid>0:96
+                   train     valid
+technical_2     0.010920  0.001815
+fundamental_56  0.005913  0.001921
+technical_40    0.012328  0.002406
+technical_36    0.009199  0.002633
+fundamental_53  0.011925  0.002642
+technical_30    0.015588  0.003215
+technical_35    0.013121  0.004069
+technical_7     0.010539  0.004707
+technical_20    0.016068  0.005793
+technical_27    0.013942  0.006792
+4599.2s
+
+seed:17614
+imp_train>0:109, imp_valid>0:93
+                   train     valid
+fundamental_39  0.007171  0.002051
+fundamental_53  0.011297  0.002162
+technical_40    0.011831  0.002403
+fundamental_15  0.008343  0.002517
+technical_36    0.009986  0.002700
+technical_30    0.015508  0.003138
+technical_35    0.012310  0.003463
+technical_7     0.011314  0.004623
+technical_27    0.014813  0.004803
+technical_20    0.016085  0.005910
+4952.7s
+
+seed:18185
+imp_train>0:109, imp_valid>0:93
+                   train     valid
+fundamental_53  0.012067  0.002074
+fundamental_56  0.005869  0.002108
+fundamental_39  0.006849  0.002178
+technical_40    0.012229  0.002581
+technical_19    0.011096  0.002655
+technical_30    0.015348  0.003022
+technical_35    0.012442  0.003692
+technical_7     0.010319  0.003701
+technical_20    0.016275  0.005607
+technical_27    0.014170  0.006057
+5306.2s
+
+seed:18756
+imp_train>0:109, imp_valid>0:96
+                   train     valid
+technical_17    0.012097  0.001768
+technical_19    0.011108  0.001852
+technical_36    0.009336  0.002222
+technical_40    0.012228  0.002370
+fundamental_53  0.011478  0.002511
+technical_30    0.014932  0.003220
+technical_35    0.012155  0.003540
+technical_7     0.010377  0.004424
+technical_27    0.012730  0.004785
+technical_20    0.016415  0.005752
+5659.6s
+
+seed:19327
+imp_train>0:109, imp_valid>0:94
+                   train     valid
+technical_17    0.011947  0.001885
+fundamental_53  0.009870  0.002184
+fundamental_56  0.006126  0.002595
+technical_40    0.012685  0.002688
+technical_36    0.008354  0.002895
+technical_30    0.015308  0.003022
+technical_35    0.011133  0.003936
+technical_7     0.010500  0.004905
+technical_27    0.014287  0.005150
+technical_20    0.016228  0.006244
+6013.2s
+
+seed:19898
+imp_train>0:109, imp_valid>0:99
+                   train     valid
+fundamental_56  0.006089  0.001992
+fundamental_53  0.011594  0.001997
+technical_19    0.011649  0.002301
+technical_40    0.011729  0.002489
+technical_36    0.009515  0.002802
+technical_30    0.015296  0.003195
+technical_7     0.010201  0.004090
+technical_35    0.012701  0.004160
+technical_27    0.014684  0.005221
+technical_20    0.016376  0.005918
+6366.3s
+
+seed:20469
+imp_train>0:109, imp_valid>0:101
+                   train     valid
+fundamental_39  0.005987  0.001872
+fundamental_53  0.012004  0.002289
+fundamental_56  0.005283  0.002302
+technical_30    0.015911  0.002895
+technical_40    0.011768  0.002965
+technical_36    0.009798  0.003406
+technical_7     0.011435  0.003873
+technical_35    0.013287  0.004253
+technical_27    0.013734  0.005328
+technical_20    0.016209  0.006080
+6719.4s
+
+seed:21040
+imp_train>0:109, imp_valid>0:101
+                   train     valid
+technical_21    0.011423  0.001826
+technical_19    0.011696  0.001889
+fundamental_53  0.011509  0.002239
+technical_36    0.009238  0.002572
+technical_40    0.013294  0.002734
+technical_30    0.015449  0.003133
+technical_35    0.012014  0.003798
+technical_7     0.011522  0.004117
+technical_20    0.016217  0.005803
+technical_27    0.014234  0.006021
+7072.5s
+
+seed:21611
+imp_train>0:109, imp_valid>0:98
+                   train     valid
+technical_21    0.011473  0.002099
+fundamental_15  0.008787  0.002132
+fundamental_53  0.011562  0.002147
+technical_36    0.008531  0.002485
+technical_40    0.011292  0.002664
+technical_30    0.015429  0.003082
+technical_35    0.012497  0.003404
+technical_7     0.011188  0.004074
+technical_27    0.013524  0.004659
+technical_20    0.016094  0.005281
+7425.9s
+
+seed:22182
+imp_train>0:109, imp_valid>0:98
+                   train     valid
+technical_40    0.012477  0.002146
+fundamental_56  0.006469  0.002148
+fundamental_53  0.011525  0.002178
+fundamental_15  0.008818  0.002351
+technical_36    0.008222  0.002823
+technical_30    0.015304  0.003092
+technical_35    0.012719  0.003664
+technical_7     0.011812  0.004984
+technical_27    0.014128  0.004991
+technical_20    0.016351  0.005911
+7779.7s
+
+seed:22753
+imp_train>0:109, imp_valid>0:100
+                   train     valid
+technical_21    0.011104  0.001826
+technical_19    0.011452  0.001826
+fundamental_53  0.011902  0.002224
+technical_40    0.012623  0.002717
+technical_36    0.009172  0.003146
+technical_35    0.013418  0.003204
+technical_30    0.015331  0.003334
+technical_27    0.013860  0.004657
+technical_7     0.011217  0.004845
+technical_20    0.016087  0.005479
+8133.2s
+
+seed:23324
+imp_train>0:109, imp_valid>0:99
+                   train     valid
+fundamental_42  0.011461  0.002146
+fundamental_53  0.011343  0.002175
+technical_36    0.009287  0.002218
+fundamental_56  0.006341  0.002241
+technical_40    0.010869  0.002808
+technical_30    0.015680  0.003022
+technical_35    0.012149  0.003391
+technical_7     0.011384  0.004426
+technical_20    0.016253  0.005465
+technical_27    0.013988  0.006139
+8486.9s
+
+seed:23895
+imp_train>0:109, imp_valid>0:93
+                   train     valid
+technical_21    0.011285  0.002066
+technical_19    0.011804  0.002122
+fundamental_53  0.010846  0.002211
+technical_40    0.012031  0.002390
+technical_36    0.008860  0.002746
+technical_35    0.012318  0.003021
+technical_30    0.015298  0.003156
+technical_7     0.010668  0.004729
+technical_27    0.013177  0.004874
+technical_20    0.016440  0.005658
+8840.1s
+
+seed:24466
+imp_train>0:109, imp_valid>0:94
+                   train     valid
+technical_17    0.011728  0.001961
+fundamental_14  0.009105  0.002117
+technical_36    0.007968  0.002195
+fundamental_53  0.010520  0.002300
+technical_40    0.012387  0.002564
+technical_35    0.012979  0.003205
+technical_30    0.015426  0.003277
+technical_27    0.014522  0.004347
+technical_7     0.011523  0.004519
+technical_20    0.016278  0.005578
+9193.9s
+
+seed:25037
+imp_train>0:109, imp_valid>0:101
+                   train     valid
+technical_19    0.010768  0.002038
+technical_17    0.011766  0.002373
+fundamental_53  0.011125  0.002408
+technical_40    0.012022  0.002652
+technical_30    0.015418  0.003058
+technical_36    0.010272  0.003224
+technical_35    0.011834  0.003705
+technical_7     0.011852  0.003835
+technical_27    0.014554  0.005349
+technical_20    0.016541  0.005851
+9547.0s
+
+seed:25608
+imp_train>0:109, imp_valid>0:94
+                   train     valid
+fundamental_15  0.008051  0.001911
+technical_19    0.010739  0.001913
+technical_40    0.011836  0.002249
+fundamental_53  0.011878  0.002266
+technical_35    0.012676  0.003140
+technical_36    0.010362  0.003348
+technical_30    0.015416  0.003354
+technical_7     0.011044  0.005092
+technical_20    0.016291  0.006193
+technical_27    0.015438  0.006606
+9900.2s
+
+seed:26179
+imp_train>0:109, imp_valid>0:96
+                   train     valid
+fundamental_39  0.006743  0.001947
+fundamental_53  0.011730  0.002158
+technical_40    0.011931  0.002273
+technical_19    0.011405  0.002304
+technical_36    0.009027  0.002399
+technical_30    0.015415  0.003124
+technical_35    0.012274  0.003761
+technical_27    0.013119  0.004076
+technical_7     0.011145  0.005423
+technical_20    0.015966  0.006168
+10253.8s
+
+seed:26750
+imp_train>0:109, imp_valid>0:101
+                   train     valid
+fundamental_53  0.010857  0.002089
+fundamental_42  0.011228  0.002127
+fundamental_39  0.006079  0.002149
+technical_40    0.011987  0.002473
+technical_36    0.009565  0.002811
+technical_30    0.015457  0.003079
+technical_35    0.011717  0.003704
+technical_7     0.010926  0.004508
+technical_27    0.014630  0.004856
+technical_20    0.016446  0.005785
+10607.1s
+
+Done: 10607.1s
